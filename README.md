@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there
+
+- I'm Mark, I'm a uni lecturer at Adelaide Uni in Software Development and Design
+- You can reach me from: https://researchers.adelaide.edu.au/profile/mark.carman
+- I'm currently working on Elixir data science stuff + RISC-V assembly
 
 <!--
 **Mittans/Mittans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
